@@ -1,4 +1,4 @@
-![th](https://github.com/Gungunag1/Gungunag1/assets/120359846/5481d402-7eb1-4af9-a420-b59f98270235)
+
 <h1 align="center">Hi 👋, I'm Gungun Agrawal</h1>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th?id=OIP.kbUTNQ5Pw-esY0-8yjb8JQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gungunag1&label=Profile%20views&color=0e75b6&style=flat" alt="gungunag1" /> </p>
