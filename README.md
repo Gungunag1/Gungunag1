@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gungunag1/project.github.io](https://github.com/Gungunag1/project.github.io)
-
 - 📫 How to reach me **agrawalgungun124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
