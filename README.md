@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gungunag1" alt="gungunag1" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently focused **Java Full stack development**
 
 - 📫 How to reach me **agrawalgungun124@gmail.com**
 
